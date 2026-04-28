@@ -1,0 +1,19 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # auto update tiap hari
+  workflow_dispatch:     # bisa run manual
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community
+
+          # 🧊 Commit calendar 3D
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
