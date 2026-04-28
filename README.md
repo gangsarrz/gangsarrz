@@ -20,7 +20,6 @@ A computer science student at the University of Surakarta, Indonesia. Has a stro
 [![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Next JS](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Node JS](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 
 
@@ -29,9 +28,6 @@ A computer science student at the University of Surakarta, Indonesia. Has a stro
 | <a href="https://github.com/gangsarrz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gangsarrz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangsarrz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mayanggumelarr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### Profil View
 ![Profile View Counter](https://komarev.com/ghpvc/?username=gangsarrz&color=blue)
