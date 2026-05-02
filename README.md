@@ -5,7 +5,7 @@ A computer science student at the University of Surakarta, Indonesia. Has a stro
 
 ---
 
-## 🌐 Socials:
+##  Socials:
 <p align="center">
   <a href="https://instagram.com/_gangsarrz">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
@@ -20,14 +20,13 @@ A computer science student at the University of Surakarta, Indonesia. Has a stro
 
 ---
 
-## 🛠️ Tech Stack
-<details open>
-<summary><b>💻 Core Languages</b></summary>
+##  Tech Stack
+
+<summary><b> Core Languages</b></summary>
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -37,8 +36,7 @@ A computer science student at the University of Surakarta, Indonesia. Has a stro
 
 </details>
 
-<details>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b> Frontend Development</b></summary>
 <br/>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -50,37 +48,29 @@ A computer science student at the University of Surakarta, Indonesia. Has a stro
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</details>
 
-<details>
-<summary><b>⚙️ Backend & Frameworks</b></summary>
+
+<summary><b> Backend & Frameworks</b></summary>
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logo=filament&logoColor=black)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
 
 
-</details>
 
-<details>
-<summary><b>📱 Mobile Development</b></summary>
+<summary><b> Mobile Development</b></summary>
 <br/>
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-</details>
 
-<details>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+
+<summary><b> Cloud & DevOps</b></summary>
 <br/>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -90,12 +80,9 @@ A computer science student at the University of Surakarta, Indonesia. Has a stro
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-</details>
 
-<details>
-<summary><b>🗄️ Databases & Storage</b></summary>
+<summary><b> Databases & Storage</b></summary>
 <br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -104,32 +91,16 @@ A computer science student at the University of Surakarta, Indonesia. Has a stro
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-</details>
 
-<details>
-<summary><b>🔧 Tools & Utilities</b></summary>
+
+<summary><b> Tools & Utilities</b></summary>
 <br/>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</details>
 
-<details>
-<summary><b>🤖 AI, Data & Big Data</b></summary>
-<br/>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
-</details>
-
-<details>
-<summary><b>🎨 Design & Creative</b></summary>
+<summary><b> Design & Creative</b></summary>
 <br/>
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -138,11 +109,11 @@ A computer science student at the University of Surakarta, Indonesia. Has a stro
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-</details>
+
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 | <a href="https://github.com/gangsarrz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gangsarrz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangsarrz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
