@@ -5,10 +5,6 @@ A Informatics Engineering student at the University of Surakarta, Indonesia. Has
 
 ---
 
-</details>
-
----
-
 ### Profil View
 <!-- Profile Stats -->
 <div align>
