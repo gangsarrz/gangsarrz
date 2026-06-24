@@ -29,6 +29,7 @@ Currently improving my skills in programming, software development, and problem 
 
 - 📧 Email: [gangsarrizkiyaansah80@gmail.com](mailto:gangsarrizkiyansah80@gmail.com)
 - 🧑‍💻 GitHub: [github.com/gangsarrz](https://github.com/gangsarrz)
+- 💼 LinkedIn: [https://www.linkedin.com/in/gangsar rizkiyansah](https://www.linkedin.com/in/gangsar-rizkiyansah?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
