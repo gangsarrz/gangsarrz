@@ -33,11 +33,4 @@ Currently improving my skills in programming, software development, and problem 
 
 ---
 
-## 📊 GitHub Stats
-
-![gangsarrz GitHub Stats](https://github-readme-stats.vercel.app/api?username=gangsarrz&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gangsarrz&layout=compact&theme=tokyonight)
-
----
-
 ⭐️ _Thanks for stopping by! Feel free to check out my repos or say hi._  
