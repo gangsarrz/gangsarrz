@@ -25,16 +25,6 @@ Currently improving my skills in programming, software development, and problem 
 
 ---
 
-## 🚧 Ongoing Projects
-
-⏱️ 2023–Present · Kotlin
-
-### 🖼 [Ayra Gallery](https://github.com/AyraHikari/AyraGallery)
-Powerful gallery with multiple AI models to detect and categorize every single photos, and easier search by image or OCR.  
-⏱️ 2026–Present · Jetpack Compose
-
----
-
 ## 🌐 Find Me Online
 
 - 📧 Email: [gangsarrizkiyaansah80@gmail.com](mailto:gangsarrizkiyansah80@gmail.com)
