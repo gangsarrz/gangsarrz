@@ -5,7 +5,7 @@
 
 ## 🌟 Passionate GitHub Developer
 
-I'm a **junior developer** from 🇮🇩 Indonesia who loves learning new technologies and building projects.
+I'm a **junior software developer** from 🇮🇩 Indonesia who loves learning new technologies and building projects.
 Currently improving my skills in programming, software development, and problem solving. I enjoy exploring how things work and turning ideas into real applications.
 
 🧭 On GitHub since **2025**.
@@ -24,14 +24,6 @@ Currently improving my skills in programming, software development, and problem 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333?style=flat&logo=tailwind-css)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Laravel 11](https://img.shields.io/badge/Laravel-333?style=flat&logo=laravel&logoColor=white)
-
----
-
-## 🌐 Find Me Online
-
-- 📧 Email: [gangsarrizkiyaansah80@gmail.com](mailto:gangsarrizkiyansah80@gmail.com)
-- 🧑‍💻 GitHub: [github.com/gangsarrz](https://github.com/gangsarrz)
-- 💼 LinkedIn: [https://www.linkedin.com/in/gangsar rizkiyansah](https://www.linkedin.com/in/gangsar-rizkiyansah?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
