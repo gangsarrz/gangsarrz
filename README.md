@@ -3,8 +3,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/gangsarrz?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=gangsarrz&color=blue)
 
-## 🌟 Passionate GitHub Developer
-
 I'm a **junior software developer** from 🇮🇩 Indonesia who loves learning new technologies and building projects.
 Currently improving my skills in programming, software development, and problem solving. I enjoy exploring how things work and turning ideas into real applications.
 
