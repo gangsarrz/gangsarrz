@@ -8,10 +8,6 @@
 I'm a **junior software developer** from 🇮🇩 Indonesia who loves learning new technologies and building projects.
 Currently improving my skills in programming, software development, and problem solving. I enjoy exploring how things work and turning ideas into real applications.
 
-🧭 On GitHub since **2025**.
-
-> _"Made with curiosity, driven by passion."_  
-
 ---
 
 ## 🔧 Tech & Tools
@@ -25,6 +21,4 @@ Currently improving my skills in programming, software development, and problem 
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Laravel 11](https://img.shields.io/badge/Laravel-333?style=flat&logo=laravel&logoColor=white)
 
----
-
-⭐️ _Thanks for stopping by! Feel free to check out my repos or say hi._  
+  
