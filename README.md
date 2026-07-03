@@ -1,6 +1,5 @@
 
 # 👋 Hello, I'm Gangsar Rizkiyansah
-![GitHub followers](https://img.shields.io/github/followers/gangsarrz?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=gangsarrz&color=blue)
 
 I'm a **junior software developer** from 🇮🇩 Indonesia who loves learning new technologies and building projects.
