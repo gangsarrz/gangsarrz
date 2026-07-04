@@ -1,21 +1,31 @@
-
-# 👋 Hello, I'm Gangsar Rizkiyansah
+# Gangsar Rizkiyansah
 ![Profile views](https://komarev.com/ghpvc/?username=gangsarrz&color=blue)
 
-I'm a **junior software developer** from 🇮🇩 Indonesia who loves learning new technologies and building projects.
+**Junior Software Developer** · Full-Stack · AI · Android  
+Informatics Engineering Student @ [Surakarta University]([https://www.th-deg.de/en](https://unsa.ac.id/))
+
+I loves learning new technologies and building projects.
 Currently improving my skills in programming, software development, and problem solving. I enjoy exploring how things work and turning ideas into real applications.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gangsar--rizkiyansah-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gangsar-rizkiyansah/)
+[![Email](https://img.shields.io/badge/Email-gangsarrizkiyansah754@gmail.com-EA4335?style=flat&logo=gmail)](mailto:gangsarrizkiyansah754@gmail.com)
 
 ---
 
-## 🔧 Tech & Tools
+### Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=openjdk)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333?style=flat&logo=tailwind-css)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Laravel 11](https://img.shields.io/badge/Laravel-333?style=flat&logo=laravel&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,css,html,figma&theme=dark" alt="Languages" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,laravel,mongodb,flutter,docker,git,ubuntu,aws,postgres&theme=dark" alt="Tools & Frameworks" />
+  </a>
+</p>
+
+---
+
 
   
