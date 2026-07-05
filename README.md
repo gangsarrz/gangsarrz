@@ -1,7 +1,7 @@
 # Gangsar Rizkiyansah
 ![Profile views](https://komarev.com/ghpvc/?username=gangsarrz&color=blue)
 
-**Junior Software Developer** · Full-Stack · AI · Android  
+**Junior Software Developer** · Full-Stack · AI  
 Informatics Engineering Student @ [Surakarta University]([https://www.th-deg.de/en](https://unsa.ac.id/))
 
 I loves learning new technologies and building projects.
@@ -16,12 +16,12 @@ Currently improving my skills in programming, software development, and problem 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,css,html,figma&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,css,html,figma&theme=dark" alt="Languages" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,laravel,mongodb,flutter,docker,git,ubuntu,aws,postgres&theme=dark" alt="Tools & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,laravel,mongodb,postgres,flutter,docker,git,ubuntu,aws&theme=dark" alt="Tools & Frameworks" />
   </a>
 </p>
 
