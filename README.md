@@ -2,7 +2,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=gangsarrz&color=blue)
 
 **Junior Software Developer** · Full-Stack · AI  
-Informatics Engineering Student @ [Surakarta University]([https://www.th-deg.de/en](https://unsa.ac.id/))
+Informatics Engineering Student @[Surakarta University](https://unsa.ac.id/)
 
 I loves learning new technologies and building projects.
 Currently improving my skills in programming, software development, and problem solving. I enjoy exploring how things work and turning ideas into real applications.
