@@ -16,16 +16,17 @@ Currently improving my skills in programming, software development, and problem 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,css,html,figma&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=js,java,python,php,css,html,figma&theme=dark" alt="Languages" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,laravel,mongodb,postgres,flutter,docker,git,ubuntu,aws&theme=dark" alt="Tools & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,laravel,mongodb&theme=dark" alt="Tools & Frameworks" />
   </a>
 </p>
 
 ---
+Thanks for stopping by! Feel free to explore my repositories and reach out for collaborations
 
 
   
