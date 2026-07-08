@@ -19,7 +19,7 @@ Currently improving my skills in programming, software development, and problem 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,python,php,css,html,figma&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=js,java,php,css,html,figma&theme=dark" alt="Languages" />
   </a>
 </p>
 <p align="center">
