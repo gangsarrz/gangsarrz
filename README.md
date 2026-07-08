@@ -1,7 +1,7 @@
 # Gangsar Rizkiyansah
 ![Profile views](https://komarev.com/ghpvc/?username=gangsarrz&color=blue)
 
-**Junior Software Developer** · Full-Stack · AI 
+**Junior Software Developer** · Full-Stack · AI  
 Informatics Engineering Student @[Surakarta University](https://unsa.ac.id/)
 
 I passionate learning new technologies and building projects.
@@ -27,6 +27,16 @@ Currently improving my skills in programming, software development, and problem 
     <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,laravel,mongodb&theme=dark" alt="Tools & Frameworks" />
   </a>
 </p>
+
+---
+
+### Featured Projects
+
+> These are the ones I'd actually walk you through in an interview.
+
+| Project | Stack | What it does |
+|---------|-------|-------------|
+
 
 ---
 Thanks for stopping by! Feel free to explore my repositories and reach out for collaborations
