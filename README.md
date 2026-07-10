@@ -24,7 +24,7 @@ Currently improving my skills in programming, software development, and problem 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,laravel,mongodb&theme=dark" alt="Tools & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,laravel,mongodb,postgres&theme=dark" alt="Tools & Frameworks" />
   </a>
 </p>
 
